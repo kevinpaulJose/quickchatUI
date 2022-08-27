@@ -1,18 +1,5 @@
-import {
-  Logout,
-  PersonAdd,
-  Settings,
-  SettingsOutlined,
-} from "@mui/icons-material";
-import {
-  Avatar,
-  Grid,
-  IconButton,
-  ListItemIcon,
-  Menu,
-  MenuItem,
-  Typography,
-} from "@mui/material";
+import { SettingsOutlined } from "@mui/icons-material";
+import { Avatar, Grid, IconButton, Typography } from "@mui/material";
 import { Stack } from "@mui/system";
 import { useState } from "react";
 import { localTheme } from "../../localTheme/localTheme";
